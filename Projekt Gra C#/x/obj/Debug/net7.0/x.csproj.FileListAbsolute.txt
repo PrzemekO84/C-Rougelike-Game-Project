@@ -1,0 +1,14 @@
+C:\Users\grzyb\Documents\Programowanie\C#\.vs\Moje projekty C#\x\x\bin\Debug\net7.0\x.exe
+C:\Users\grzyb\Documents\Programowanie\C#\.vs\Moje projekty C#\x\x\bin\Debug\net7.0\x.deps.json
+C:\Users\grzyb\Documents\Programowanie\C#\.vs\Moje projekty C#\x\x\bin\Debug\net7.0\x.runtimeconfig.json
+C:\Users\grzyb\Documents\Programowanie\C#\.vs\Moje projekty C#\x\x\bin\Debug\net7.0\x.dll
+C:\Users\grzyb\Documents\Programowanie\C#\.vs\Moje projekty C#\x\x\bin\Debug\net7.0\x.pdb
+C:\Users\grzyb\Documents\Programowanie\C#\.vs\Moje projekty C#\x\x\obj\Debug\net7.0\x.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grzyb\Documents\Programowanie\C#\.vs\Moje projekty C#\x\x\obj\Debug\net7.0\x.AssemblyInfoInputs.cache
+C:\Users\grzyb\Documents\Programowanie\C#\.vs\Moje projekty C#\x\x\obj\Debug\net7.0\x.AssemblyInfo.cs
+C:\Users\grzyb\Documents\Programowanie\C#\.vs\Moje projekty C#\x\x\obj\Debug\net7.0\x.csproj.CoreCompileInputs.cache
+C:\Users\grzyb\Documents\Programowanie\C#\.vs\Moje projekty C#\x\x\obj\Debug\net7.0\x.dll
+C:\Users\grzyb\Documents\Programowanie\C#\.vs\Moje projekty C#\x\x\obj\Debug\net7.0\refint\x.dll
+C:\Users\grzyb\Documents\Programowanie\C#\.vs\Moje projekty C#\x\x\obj\Debug\net7.0\x.pdb
+C:\Users\grzyb\Documents\Programowanie\C#\.vs\Moje projekty C#\x\x\obj\Debug\net7.0\x.genruntimeconfig.cache
+C:\Users\grzyb\Documents\Programowanie\C#\.vs\Moje projekty C#\x\x\obj\Debug\net7.0\ref\x.dll
